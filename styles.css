@@ -108,10 +108,10 @@ main {
 /* Stats */
 
 .card__stats {
-  padding: 3.5rem 5.5rem 1rem 4rem;
+  padding: 3.5rem 5.5rem 3.5rem 4rem;
   display: grid;
   place-items: start;
-  gap: 1rem;
+  gap: 4rem;
 }
 
 .stats__content {
